@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B6028BE120AE87C4000C2D55 /* TTUserProfile.m in Sources */ = {isa = PBXBuildFile; fileRef = B6028BE020AE87C4000C2D55 /* TTUserProfile.m */; };
 		B669868320A14327002CEDFA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B669868220A14327002CEDFA /* AppDelegate.m */; };
 		B669868620A14328002CEDFA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B669868520A14328002CEDFA /* ViewController.m */; };
 		B669868920A14328002CEDFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B669868720A14328002CEDFA /* Main.storyboard */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B6028BDF20AE87C4000C2D55 /* TTUserProfile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTUserProfile.h; sourceTree = "<group>"; };
+		B6028BE020AE87C4000C2D55 /* TTUserProfile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TTUserProfile.m; sourceTree = "<group>"; };
 		B669867E20A14327002CEDFA /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B669868120A14327002CEDFA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B669868220A14327002CEDFA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -107,6 +110,8 @@
 				B669868220A14327002CEDFA /* AppDelegate.m */,
 				B669868420A14327002CEDFA /* ViewController.h */,
 				B669868520A14328002CEDFA /* ViewController.m */,
+				B6028BDF20AE87C4000C2D55 /* TTUserProfile.h */,
+				B6028BE020AE87C4000C2D55 /* TTUserProfile.m */,
 				B669868720A14328002CEDFA /* Main.storyboard */,
 				B669868D20A14329002CEDFA /* Assets.xcassets */,
 				B669868F20A14329002CEDFA /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 				B669868620A14328002CEDFA /* ViewController.m in Sources */,
 				B669868320A14327002CEDFA /* AppDelegate.m in Sources */,
 				B669869420A14329002CEDFA /* main.m in Sources */,
+				B6028BE120AE87C4000C2D55 /* TTUserProfile.m in Sources */,
 				B669868C20A14328002CEDFA /* test.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
